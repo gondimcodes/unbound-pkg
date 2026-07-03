@@ -10,6 +10,9 @@ It allows you to compile the latest Unbound release from Debian unstable or a sp
 unbound-pkg/
 ├── build.sh         # Main automation script
 ├── builder.conf     # Configuration options (output directory, backup paths, etc.)
+├── AUTHOR.md        # Author information
+├── LICENSE          # License file (GPL v3)
+├── CHANGELOG.md     # Changelog tracking version history
 └── README.md        # This documentation file
 ```
 
