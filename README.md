@@ -67,3 +67,11 @@ sudo ./build.sh --rollback
 This will automatically:
 1. Re-install the previously recorded Unbound/libunbound package versions.
 2. Restore configuration files in `/etc/unbound/` from the last saved backup.
+
+---
+
+## 🌐 Hosting & Mirroring
+
+This repository is mirrored between GitHub and Codeberg:
+*   **Codeberg (Primary)**: [gondim/unbound-pkg](https://codeberg.org/gondim/unbound-pkg)
+*   **GitHub**: [gondimcodes/unbound-pkg](https://github.com/gondimcodes/unbound-pkg)
